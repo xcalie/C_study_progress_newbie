@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f4a8d46d-7081-4be5-ae9f-4a4f7b9aca96}</ProjectGuid>
-    <RootNamespace>if</RootNamespace>
+    <ProjectGuid>{7f0f9ba4-1fc5-4802-a5ec-e54dd021f214}</ProjectGuid>
+    <RootNamespace>printfformat</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>3_if</ProjectName>
+    <ProjectName>6_printf_format_1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="if.cpp" />
+    <ClCompile Include="printf_format.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
