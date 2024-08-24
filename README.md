@@ -3,6 +3,6 @@
   <img src="https://img.shields.io/github/languages/code-size/xcalie/python_study_progress_newbie" alt="code size"/>
   <img src="https://img.shields.io/github/languages/count/xcalie/python_study_progress_newbie" alt="languages"/>
   <img src="https://img.shields.io/github/last-commit/xcalie/python_study_progress_newbie" alt="last commit"/><br>
-  <img src="https://img.shields.io/badge/Author-nanchengyu-orange" alt="Author" />
+  <img src="https://img.shields.io/badge/Author-xcalie" alt="Author" />
 </p>
 <hr>
