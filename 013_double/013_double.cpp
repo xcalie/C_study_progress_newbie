@@ -16,6 +16,7 @@ int main(void)
 	long double number_3 = 2324.3423L * 24343234.312L;
 
 	printf("result 3 : %llf\n", number_3);
-
+	
+	
 	return 0;
 }

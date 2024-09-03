@@ -12,5 +12,6 @@ int main(void)
 	printf("defined max precision for float : %d\n", FLT_DIG);
 	printf("defined max precision for double : %d\n", DBL_DIG);
 
+
 	return 0;
 }

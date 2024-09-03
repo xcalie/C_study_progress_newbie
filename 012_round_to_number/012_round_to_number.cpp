@@ -19,5 +19,6 @@ int main(void)
 						奇数 ，向上进一位
 	*/
 
+
 	return 0;
 }
