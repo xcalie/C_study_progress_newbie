@@ -75,9 +75,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020_4_suffix_prefix", "020_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020_5_displacement", "020_5_displacement\020_5_displacement.vcxproj", "{B2C987DA-219C-473B-A601-1A2F7544DB50}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021_6_compare", "021_6_compare\021_6_compare.vcxproj", "{A51B33BA-0A96-4262-BE00-9BBEFE489352}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020_6_compare", "020_6_compare\020_6_compare.vcxproj", "{A51B33BA-0A96-4262-BE00-9BBEFE489352}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021_7_compare_ternary", "021_7_compare_ternary\021_7_compare_ternary.vcxproj", "{B3D2033B-AC1A-471B-B17D-4364C2292AEF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020_7_compare_ternary", "020_7_compare_ternary\020_7_compare_ternary.vcxproj", "{B3D2033B-AC1A-471B-B17D-4364C2292AEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
