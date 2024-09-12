@@ -3,7 +3,7 @@
 
 #define PI = 3.14;
 
-const int32_t number_2 = 3;
+const int32_t NUMBER = 3;
 
 int main(void)
 {
