@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f9e213b7-474b-4ca1-97f6-8330758f1608}</ProjectGuid>
-    <RootNamespace>My024whilebreak</RootNamespace>
+    <ProjectGuid>{5232b503-4286-4da4-9c50-a3e9629228ad}</ProjectGuid>
+    <RootNamespace>My025whiledo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="024_while_break.cpp" />
+    <ClCompile Include="025_while_do.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
