@@ -13,7 +13,7 @@ int main(void)
 	while (money < SALES)
 	{
 		uint32_t ones;
-		scanf_s("%" PRIu32 "", &ones);
+		scanf_s("%" SCNu32 "", &ones);
 		
 		if (ones == 1 || ones == 2 || ones == 5)
 		{

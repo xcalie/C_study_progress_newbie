@@ -8,7 +8,7 @@ int main(void)
 	
 	if (number_1 > 2000)
 	{
-		printf("%d", number_1);
+		printf("%" PRIu32 "", number_1);
 		return 0;
 	}
 	

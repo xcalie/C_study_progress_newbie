@@ -9,7 +9,7 @@ int main(void)
 	uint32_t result = 0;
 	while (true)
 	{
-		scanf_s(" %" PRIu32 "", &number);
+		scanf_s(" %" SCNu32 "", &number);
 		result += number;
 		if (number == 0)
 		{
