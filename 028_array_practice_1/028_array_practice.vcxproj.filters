@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="028_array_practice.cpp">
+    <ClCompile Include="028_array_practice_1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -131,7 +131,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "026_for_practice_6", "026_f
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "026_for_practice_7", "026_for_practice_7\026_for_practice_7.vcxproj", "{E1F33B58-65C4-4076-836E-47FE945B84BA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "028_array_practice", "028_array_practice\028_array_practice.vcxproj", "{FFA9A8FE-4876-4185-B969-53A0CEFDCFA2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "028_array_practice", "028_array_practice_1\028_array_practice.vcxproj", "{FFA9A8FE-4876-4185-B969-53A0CEFDCFA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
