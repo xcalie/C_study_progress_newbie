@@ -15,10 +15,10 @@ int main(void)
 	for (u32 index = 0; index < total_student; index++)
 	{
 		grades_all += grades_total[index];
-		printf("第%" PRIu32 "个学生的成绩是%" PRIu32 "\n", index, grades_total[index]);
+		printf("第%" PRIu32 "个学生的成绩是%" PRIu32 "\n", index + 1, grades_total[index]);
 	}
 
-	average = grades_all / total_student;
+	average = (double)grades_all / (double)total_student;
 	printf("总分是%" PRIu32 "\n", grades_all);
 	printf("平均分是%lf\n", average);
 
