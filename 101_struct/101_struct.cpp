@@ -11,16 +11,16 @@ struct Person {
 	d32 age;
 	d32 height;
 	d32 weight;
-}person;
+}Person;
 
 int main(void)
 {
-	Person people = { 1001, 2, 24, 175, 65 };
+	struct Person people = { 1001, 2, 24, 175, 65 };
 	printf("people's number : %" PRId32 "\n", people.number);
 
-	Person* Apeople = &people;
+	struct Person* Apeople = &people;
 	printf("Apeople's number : %" PRId32 "\n", Apeople -> number);
-
+	// C语言中struct声明必须要带上 struct
 
 
 	return 0;
