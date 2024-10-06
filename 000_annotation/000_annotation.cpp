@@ -6,6 +6,7 @@
 
 /*
 	103_struct_union
+	104_string_start
 */
 
 int main(void)
