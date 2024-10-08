@@ -23,6 +23,7 @@ int main(void)
 	// 在Debug中不能运行
 	// 在Release中将返回错误异常
 
+	// 该函数会将src中的字符串拷贝进dest中
 	errno_t err = strcpy_s(dest, sizeof(dest), src);
 	if (err != 0)
 	{
